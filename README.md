@@ -4,7 +4,6 @@ employee record
 ## description
 API to record Employees using VIACEP API as contribution
 
-badges
 ```bash
 http://localhost:8080/swagger-ui.html#/
 ```
