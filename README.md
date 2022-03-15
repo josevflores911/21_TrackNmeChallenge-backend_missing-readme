@@ -9,14 +9,14 @@ badges
 http://localhost:8080/swagger-ui.html#/
 ```
 
-usages
+# usages
 swagger was added to help in the use of the API
 
-support
+## support
 josevflores911@gmail.com
 
-author
+## author
 saddam jose viera flores
 
-status 
+## status 
 on development
